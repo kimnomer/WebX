@@ -39,8 +39,8 @@
 <body>
 
 <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
-
-<h3>Web Explorer</h3>
+<script src="
+<h3>Web+</h3>
 
 <p>
 <div class="bar" id="topBar">
