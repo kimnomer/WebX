@@ -41,7 +41,7 @@
 <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
 <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-
+<script src= "https://raw.github.com/jordan0101/WebX/master/js/script.js"></script>
 <h3>Web+</h3>
 
 <p>
