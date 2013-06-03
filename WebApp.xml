@@ -45,9 +45,16 @@
 <h3>Web+</h3>
 
 <p>
-<div class="bar" id="topBar">
+<div class="bar" id="navBar">
 	<label for="urlsearch">Enter URL Here:<input type="url" name="url" id="urlsearch" /></label>
 	<label for="searchbtn"><input type="button" value="Search" id="searchbtn"/></label>
+</div>
+
+<div class="bar" id="userBar">
+	
+</div>
+<div class="bar" id="viewsBar">
+
 </div>
 <input class="button" type="button" value="Show participants!" id="showParticipants" 
     style="visibility:hidden;"
@@ -57,8 +64,6 @@
 <div id="participantsDiv"></div>
 
 <hr>
-
-<p><a href="http://developers.google.com/+/hangouts/getting-started">Read the docs</a> to learn more about developing hangouts!</a></p>
 
 <script>
 function showParticipants() {
